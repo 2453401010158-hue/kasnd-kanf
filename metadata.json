@@ -1,0 +1,8 @@
+{
+  "name": "Elizabeth Bennet — Fashion Portfolio & Lookbook",
+  "description": "Minimalist editorial fashion portfolio and lookbook for model and creative artist Elizabeth Bennet. Featuring editorial spreads, seasonal archives, and high-fashion visual narratives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
